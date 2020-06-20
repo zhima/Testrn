@@ -1,0 +1,18 @@
+react-native-popup-dialog
+rn-fetch-blob
+
+    navigation.navigate('RouteName') pushes a new route to the stack navigator if it's not already in the stack, otherwise it jumps to that screen.
+    We can call navigation.push('RouteName') as many times as we like and it will continue pushing routes.
+    The header bar will automatically show a back button, but you can programmatically go back by calling navigation.goBack(). On Android, the hardware back button just works as expected.
+    You can go back to an existing screen in the stack with navigation.navigate('RouteName'), and you can go back to the first screen in the stack with navigation.popToTop().
+    The navigation prop is available to all screen components (components defined as screens in route configuration and rendered by React Navigation as a route).
+
+
+https://leenarts.net/2020/02/12/github-actions-for-ios-projects/
+https://github.com/realabbas/Github-Actions-React-Native
+http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
+https://help.github.com/cn/actions/getting-started-with-github-actions/using-actions-from-github-marketplace
+https://help.github.com/cn/actions/reference/workflow-syntax-for-github-actions#
+
+https://github.com/zhima/Testrn/settings/secrets
+https://github.com/marketplace/actions/ios-build-action
